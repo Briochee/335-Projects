@@ -1,0 +1,29 @@
+StdSort Completed in: 467.765 milliseconds
+A bunch of integers
+Min: 5000
+P25: 5480
+P50: 5839
+P75: 6346
+Max: 15479
+QuickSelect1 Completed in: 173.253 milliseconds
+A bunch of integers
+Min: 5000
+P25: 5480
+P50: 5839
+P75: 6346
+Max: 15479
+QuickSelect2 Completed in: 163.755 milliseconds
+A bunch of integers
+Min: 5000
+P25: 5480
+P50: 5839
+P75: 6346
+Max: 15479
+CountingSort Completed in: 99.5275 milliseconds
+A bunch of integers
+Min: 5000
+P25: 5480
+P50: 5839
+P75: 6346
+Max: 15479
+Unique: 6515

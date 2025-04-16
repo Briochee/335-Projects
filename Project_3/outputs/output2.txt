@@ -1,0 +1,29 @@
+StdSort Completed in: 5.17735 milliseconds
+Male elephant seal weights
+Min: 5027
+P25: 5760
+P50: 6103
+P75: 6530
+Max: 10478
+QuickSelect1 Completed in: 1.43801 milliseconds
+Male elephant seal weights
+Min: 5027
+P25: 5760
+P50: 6103
+P75: 6530
+Max: 10478
+QuickSelect2 Completed in: 1.55713 milliseconds
+Male elephant seal weights
+Min: 5027
+P25: 5760
+P50: 6103
+P75: 6530
+Max: 10478
+CountingSort Completed in: 1.50166 milliseconds
+Male elephant seal weights
+Min: 5027
+P25: 5760
+P50: 6103
+P75: 6530
+Max: 10478
+Unique: 3588
